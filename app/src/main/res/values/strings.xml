@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Welcome to this login page I saw on uplabs.com</string>
+    <string name="email">Email</string>
+    <string name="continues">Continue</string>
+    <string name="mail">masterfork5@gmail.com</string>
+    <string name="p_d">P********d</string>
+    <string name="sign_up">SIGN UP FOR AN ACCOUNT</string>
+    <string name="error">Field Required</string>
+</resources>
